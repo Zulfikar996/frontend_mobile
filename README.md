@@ -23,6 +23,6 @@
 4. Type ` react-native run-android `
 
 ## Download the APK
-You can Download the APK [`here`](https://firebasestorage.googleapis.com/v0/b/aloneapp-d893b.appspot.com/o/apk%2Fgayain.apk?alt=media&token=d13679b1-94ad-4b38-a97c-60b326241fcf)
+You can Download the APK [`here`](https://firebasestorage.googleapis.com/v0/b/aloneapp-d893b.appspot.com/o/apk%2Fgayain.apk?alt=media&token=ea8e20dd-bef8-4a3d-9b06-9a9868487f47)
 
 
