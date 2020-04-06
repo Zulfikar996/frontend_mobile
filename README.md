@@ -26,12 +26,3 @@
 You can Download the APK [`here`](https://firebasestorage.googleapis.com/v0/b/aloneapp-d893b.appspot.com/o/apk%2Fgayain.apk?alt=media&token=d13679b1-94ad-4b38-a97c-60b326241fcf)
 
 
-## Screenshot from the App
-<p align='center'>
-  <span>
-      <image width="800" src="./rdm/ui_app.png" />
-      
-  </span>
-</p>
-
-
