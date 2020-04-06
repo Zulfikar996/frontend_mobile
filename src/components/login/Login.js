@@ -14,8 +14,6 @@ import {
 } from 'react-native';
 import bg from '../../../images/bg_putih.png';
 import logo from '../../../images/gayain.png';
-import {API_KEY} from 'react-native-dotenv';
-import axios from 'axios'
 import {connect} from 'react-redux';
 
 import { withNavigation } from 'react-navigation';

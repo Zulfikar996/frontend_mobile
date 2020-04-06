@@ -11,12 +11,6 @@ import {
   TouchableOpacity,
   ScrollView,
 } from 'react-native';
-
-import { Button } from 'native-base'
-
-
-import {addUser} from '../redux/actions/user'
-import logo from '../../../images/gayain.png';
 const {width: WIDTH} = Dimensions.get('window');
 
 
