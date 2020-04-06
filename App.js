@@ -22,9 +22,6 @@ import Checkout from './src/components/cart/checkout';
 import profileUser from './src/components/user/profile';
 import AddCost from './src/components/cost/cost'
 
-import {API_KEY} from 'react-native-dotenv';
-
-
 const homeNavigator = createStackNavigator({
   Home: Home,
   Login: Login,
@@ -56,7 +53,6 @@ class App extends Component {
   }
 
   render() {
-    console.log('key', API_KEY)
     console.disableYellowBox = true;
     return (
       <>
